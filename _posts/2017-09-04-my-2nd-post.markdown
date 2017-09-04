@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "My 2nd Post"
+date:   2017-09-04 14:02:51 -0600
+categories: some category
+---
+
+# Hello world!
+This is my 2nd post.
+
+So... yeah.

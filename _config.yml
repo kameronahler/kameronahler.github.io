@@ -41,3 +41,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude: ["src","gulpfile.js","node_modules"]
